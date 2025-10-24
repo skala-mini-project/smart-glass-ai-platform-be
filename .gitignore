@@ -1,0 +1,6 @@
+template/
+*/__pycache__/
+*.pyc
+.env
+*.log
+ai-service/
