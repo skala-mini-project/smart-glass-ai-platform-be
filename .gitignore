@@ -4,3 +4,4 @@ template/
 .env
 *.log
 ai-service/
+.DS_Store
